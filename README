@@ -1,5 +1,5 @@
 ##### README! #######
-It is software useful for spectral analysis developed with an educational proposition for learning the python programming language. The main code captures a CSV spectral file of a soil sample and returns its area, the height of the pick, and the spectral graph. We use python 3.8 and some python libraries as matplotlib, scipy, numpy, and pandas. 
+This software is useful for soil spectral analysis. It was developed with an educational proposition for learning the python programming language. The main code captures a CSV spectral file of a soil sample and returns its area, the height of the pick, and the spectral graph. We use python 3.8 and some python libraries as matplotlib, scipy, numpy, and pandas. 
 For more information, contact me:
 henriquebrito54@gmail.com
 
