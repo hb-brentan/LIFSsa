@@ -1,0 +1,4 @@
+##### README! #######
+This software is useful for making analysis[200~It is a useful OpenSource software to make soil analyses developed in python 3.8 as an educational test. The main code captures a CSV file from a LIBS system and returns its area, the pick height, and its graph.        
+For more information, contact me:
+henriquebrito54@gmail.com
